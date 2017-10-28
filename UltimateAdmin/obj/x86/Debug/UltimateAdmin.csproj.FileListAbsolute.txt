@@ -1,0 +1,70 @@
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSearchComputer.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewLogon.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSearchComputer.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewLogon.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\x86\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSearchComputer.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewLogon.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.ViewSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\x86\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\x86\Debug\UltimateAdmin.Presentation.dll.config

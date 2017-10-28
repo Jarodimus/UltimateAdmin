@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6C4BFCD1-7375-4741-90A2-F5E349798028}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UltimateAdmin</RootNamespace>
+    <AssemblyName>UltimateAdmin</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SecureTextBox, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\SecureTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DemoViewAddLocalUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DemoViewAddLocalUser.Designer.cs">
+      <DependentUpon>DemoViewAddLocalUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DemoViewLocalUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DemoViewLocalUsers.Designer.cs">
+      <DependentUpon>DemoViewLocalUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DemoViewLoggedInUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DemoViewLoggedInUser.Designer.cs">
+      <DependentUpon>DemoViewLoggedInUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Toolbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Toolbar.Designer.cs">
+      <DependentUpon>Toolbar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAbout.Designer.cs">
+      <DependentUpon>ViewAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAddLocalUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAddLocalUser.Designer.cs">
+      <DependentUpon>ViewAddLocalUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationController.cs" />
+    <Compile Include="ViewAddOU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAddOU.Designer.cs">
+      <DependentUpon>ViewAddOU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAddUserSearchResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAddUserSearchResults.Designer.cs">
+      <DependentUpon>ViewAddUserSearchResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAddWorkstationOU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAddWorkstationOU.Designer.cs">
+      <DependentUpon>ViewAddWorkstationOU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewComputerSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewComputerSearch.Designer.cs">
+      <DependentUpon>ViewComputerSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewConfiguration.Designer.cs">
+      <DependentUpon>ViewConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCreateWorkstationGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCreateWorkstationGroup.Designer.cs">
+      <DependentUpon>ViewCreateWorkstationGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewGroupInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewGroupInformation.Designer.cs">
+      <DependentUpon>ViewGroupInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewLocalUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewLocalUsers.Designer.cs">
+      <DependentUpon>ViewLocalUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewLoggedInUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewLoggedInUser.Designer.cs">
+      <DependentUpon>ViewLoggedInUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSystemManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewSystemManager.Designer.cs">
+      <DependentUpon>ViewSystemManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewMain.Designer.cs">
+      <DependentUpon>ViewMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewUserGroups.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewUserGroups.Designer.cs">
+      <DependentUpon>ViewUserGroups.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewUserSearchResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewUserSearchResults.Designer.cs">
+      <DependentUpon>ViewUserSearchResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewWorkstationSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewWorkstationSettings.Designer.cs">
+      <DependentUpon>ViewWorkstationSettings.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DemoViewAddLocalUser.resx">
+      <DependentUpon>DemoViewAddLocalUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DemoViewLocalUsers.resx">
+      <DependentUpon>DemoViewLocalUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DemoViewLoggedInUser.resx">
+      <DependentUpon>DemoViewLoggedInUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Toolbar.resx">
+      <DependentUpon>Toolbar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAbout.resx">
+      <DependentUpon>ViewAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAddLocalUser.resx">
+      <DependentUpon>ViewAddLocalUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAddOU.resx">
+      <DependentUpon>ViewAddOU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAddUserSearchResults.resx">
+      <DependentUpon>ViewAddUserSearchResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAddWorkstationOU.resx">
+      <DependentUpon>ViewAddWorkstationOU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewComputerSearch.resx">
+      <DependentUpon>ViewComputerSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewConfiguration.resx">
+      <DependentUpon>ViewConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCreateWorkstationGroup.resx">
+      <DependentUpon>ViewCreateWorkstationGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewGroupInformation.resx">
+      <DependentUpon>ViewGroupInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewLocalUsers.resx">
+      <DependentUpon>ViewLocalUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewLoggedInUser.resx">
+      <DependentUpon>ViewLoggedInUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewSystemManager.resx">
+      <DependentUpon>ViewSystemManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMain.resx">
+      <DependentUpon>ViewMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewUserGroups.resx">
+      <DependentUpon>ViewUserGroups.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewUserSearchResults.resx">
+      <DependentUpon>ViewUserSearchResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewWorkstationSettings.resx">
+      <DependentUpon>ViewWorkstationSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UltimateAdmin.Core\UltimateAdmin.Core.csproj">
+      <Project>{2c8fd89d-822c-4297-b26a-49ce56deb2a8}</Project>
+      <Name>UltimateAdmin.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UltimateAdmin.Presentation\UltimateAdmin.Presentation.csproj">
+      <Project>{385cb6f4-512f-4919-b3a2-b902a5b1ca20}</Project>
+      <Name>UltimateAdmin.Presentation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\Refresh_32px_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PAExec\paexec.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Gears_32px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

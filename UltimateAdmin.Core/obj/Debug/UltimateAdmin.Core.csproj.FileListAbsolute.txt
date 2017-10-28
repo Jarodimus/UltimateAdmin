@@ -1,0 +1,128 @@
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin.Core\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin.Core\bin\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\Polly.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\Polly.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\bin\Debug\Polly.xml
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\NuGet.Squirrel.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SharpCompress.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Splat.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Squirrel.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Splat.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Squirrel.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SharpCompress.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Splat.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Splat.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SharpCompress.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Splat.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Splat.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\SharpCompress.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Splat.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\bin\Debug\Splat.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csproj.CoreCompileInputs.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\bin\Debug\System.Management.Automation.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csprojResolveAssemblyReference.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.csproj.CoreCompileInputs.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin.Core\obj\Debug\UltimateAdmin.Core.pdb

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C8FD89D-822C-4297-B26A-49CE56DEB2A8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UltimateAdmin.Core</RootNamespace>
+    <AssemblyName>UltimateAdmin.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.ActiveDs">
+      <HintPath>.\Interop.ActiveDs.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="SecureTextBox">
+      <HintPath>..\UltimateAdmin\SecureTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleImpersonation">
+      <HintPath>..\UltimateAdmin\SimpleImpersonation.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\WindowsPowerShell\3.0\System.Management.Automation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActiveDirectory\ActiveDirectoryQuery.cs" />
+    <Compile Include="ActiveDirectory\ADContext.cs" />
+    <Compile Include="ActiveDirectory\ADContextPreferenceLoader.cs" />
+    <Compile Include="ActiveDirectory\ADGroupQuery.cs" />
+    <Compile Include="ActiveDirectory\ADInfo.cs" />
+    <Compile Include="ActiveDirectory\ADManager.cs" />
+    <Compile Include="ActiveDirectory\ADObject.cs" />
+    <Compile Include="ActiveDirectory\ADWorkstationsQuery.cs" />
+    <Compile Include="ActiveDirectory\Category.cs" />
+    <Compile Include="ActiveDirectory\Computer.cs" />
+    <Compile Include="ActiveDirectory\ADDomain.cs" />
+    <Compile Include="ActiveDirectory\ADGroup.cs" />
+    <Compile Include="ActiveDirectory\PowerShellEnvironment.cs" />
+    <Compile Include="ActiveDirectory\PSResult.cs" />
+    <Compile Include="ActiveDirectory\User.cs" />
+    <Compile Include="ActiveDirectory\UserField.cs" />
+    <Compile Include="ADContextPreferenceWriter.cs" />
+    <Compile Include="Demo\ComputerRepository.cs" />
+    <Compile Include="Demo\UserRepository.cs" />
+    <Compile Include="Logging\Logger.cs" />
+    <Compile Include="LogonType.cs" />
+    <Compile Include="Remote\Network\LocalGroupType.cs" />
+    <Compile Include="Remote\Network\NetStatus.cs" />
+    <Compile Include="Remote\Network\PingResult.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ISearchPreferences.cs" />
+    <Compile Include="AppSearchPreferences.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Remote\WMI\WMIQuery.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="WorkstationSearchPreferences.cs" />
+    <Compile Include="XmlPreferenceLoader.cs" />
+    <Compile Include="XmlPreferenceReader.cs" />
+    <Compile Include="XmlPreferenceWriter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

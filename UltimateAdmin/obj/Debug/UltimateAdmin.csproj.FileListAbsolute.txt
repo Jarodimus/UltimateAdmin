@@ -1,0 +1,421 @@
+c:\users\jabbadusky\documents\visual studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+c:\users\jabbadusky\documents\visual studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+c:\users\jabbadusky\documents\visual studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+c:\users\jabbadusky\documents\visual studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+c:\users\jabbadusky\documents\visual studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+c:\users\jabbadusky\documents\visual studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+c:\users\jabbadusky\documents\visual studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+c:\users\jabbadusky\documents\visual studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLogon.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2015\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\SimpleImpersonation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSearchComputer.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLogon.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSearchComputer.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLogon.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSearch.resources
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\Visual Studio 2017\Projects\UltimateAdmin - MVP\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddLocalUser.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserSearchResults.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLocalUsers.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLoggedInUser.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewResetUserPassword.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserGroups.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserInformation.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSearch.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearchResults.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Resources\Update.exe
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Mono.Cecil.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\NuGet.Squirrel.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Polly.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\SharpCompress.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Splat.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Squirrel.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Polly.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Polly.xml
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Splat.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\bin\Debug\Squirrel.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdminMVP\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddLocalUser.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserOU.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserSearchResults.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewConfiguration.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLocalUsers.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLoggedInUser.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewResetUserPassword.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserGroups.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserInformation.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSearch.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearch.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearchResults.resources
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\Resources\Update.exe
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddLocalUser.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddOU.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserSearchResults.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddWorkstationOU.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAdminPasswords.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewConfiguration.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewCreateWorkstationGroup.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewGroupInformation.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLocalUsers.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLoggedInUser.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewResetUserPassword.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewShowAdminPassword.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserGroups.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserInformation.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearch.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearchResults.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewWorkstationSettings.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\PAExec\paexec.exe
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSettings.resources
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\NuGet.Squirrel.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\SharpCompress.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\Splat.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\Squirrel.dll
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\Splat.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\bin\Debug\Squirrel.pdb
+C:\Users\jabbadusky\Documents\GitHub Backups\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAbout.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\PAExec\paexec.exe
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\SharpCompress.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\Splat.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\bin\Debug\Splat.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAbout.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddLocalUser.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddOU.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserSearchResults.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddWorkstationOU.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewConfiguration.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewCreateWorkstationGroup.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewGroupInformation.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLocalUsers.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLoggedInUser.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewResetUserPassword.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserGroups.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserInformation.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserManager.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearch.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearchResults.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSettings.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewWorkstationSettings.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\UltimateAdmin\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAbout.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddLocalUser.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddOU.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserSearchResults.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddWorkstationOU.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewConfiguration.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewCreateWorkstationGroup.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewGroupInformation.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLocalUsers.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLoggedInUser.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserGroups.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearchResults.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewWorkstationSettings.resources
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\PAExec\paexec.exe
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\SecureTextBox.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\SharpCompress.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Splat.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\System.Management.Automation.dll
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\jabbadusky\Documents\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Splat.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\PAExec\paexec.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\SharpCompress.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Splat.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\System.Management.Automation.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\bin\Debug\Splat.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAbout.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddLocalUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddOU.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserSearchResults.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddWorkstationOU.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewConfiguration.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewCreateWorkstationGroup.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewGroupInformation.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLocalUsers.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLoggedInUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserGroups.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearchResults.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewWorkstationSettings.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.CoreCompileInputs.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewLoggedInUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewAddLocalUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewLocalUsers.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\PAExec\paexec.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\Mono.Cecil.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\SharpCompress.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\Splat.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\System.Management.Automation.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\bin\Debug\Splat.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewAddLocalUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewLocalUsers.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewLoggedInUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAbout.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddLocalUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddOU.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserSearchResults.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddWorkstationOU.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewConfiguration.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewCreateWorkstationGroup.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewGroupInformation.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLocalUsers.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLoggedInUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserGroups.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearchResults.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.ViewWorkstationSettings.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.CoreCompileInputs.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin_NOUSER\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\PAExec\paexec.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\System.Management.Automation.dll
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Core.dll.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.pdb
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\bin\Debug\UltimateAdmin.Presentation.dll.config
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csprojResolveAssemblyReference.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewAddLocalUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewLocalUsers.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.DemoViewLoggedInUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Toolbar.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAbout.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddLocalUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddOU.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddUserSearchResults.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewAddWorkstationOU.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewComputerSearch.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewConfiguration.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewCreateWorkstationGroup.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewGroupInformation.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLocalUsers.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewLoggedInUser.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewSystemManager.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.Properties.Resources.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewMain.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserGroups.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewUserSearchResults.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.ViewWorkstationSettings.resources
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.GenerateResource.Cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.csproj.CoreCompileInputs.cache
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.exe
+C:\Users\J-Rod\Documents\GitHub\UltimateAdmin\UltimateAdmin\obj\Debug\UltimateAdmin.pdb
