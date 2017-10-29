@@ -9,7 +9,7 @@ The application can be launched from a machine that is not part of an Active Dir
 ![AD_Error.jpg]({{site.baseurl}}/AD_Error.jpg)
 
 
-#Features
+Features
 ---
 1. Search Active Directory using a wildcard search, targeting either machine name or description keywords.  
 
