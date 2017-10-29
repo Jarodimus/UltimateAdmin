@@ -6,7 +6,7 @@ Users of the application should have an administrative account in an Active Dire
 
 The application can be launched from a machine that is not part of an Active Directory domain, and it will run in DEMO mode to showcase how the basic functionality works.  When running it outside an AD domain, you will see the below message, after which the app will run in DEMO mode:
 
-![AD_Error.jpg](https://github.com/Jarodimus/UltimateAdmin/blob/master/MainWindow.jpg)
+![AD_Error.jpg](https://github.com/Jarodimus/UltimateAdmin/blob/master/Screenshots/AD_Error.jpg)
 
 
 Features
