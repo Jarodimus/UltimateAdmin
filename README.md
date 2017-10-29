@@ -44,5 +44,5 @@ Features
 
 Below is a screenshot of the app in demo mode:
 
-![MainWindow.jpg]({{site.baseurl}}/MainWindow.jpg)
+![MainWindow.jpg](https://github.com/Jarodimus/UltimateAdmin/blob/master/Screenshots/MainWindow.jpg)
 
