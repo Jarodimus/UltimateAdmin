@@ -25,7 +25,7 @@ Features
 
 6. Query security group memberships
 
-6. Automatic querying of detailed system information such as:
+7. Automatic querying of detailed system information such as:
 	- Type: Desktop/Laptop
     - BIOS: Current level
     - Make/Model: Brand, model information
@@ -38,9 +38,9 @@ Features
 
 10. Remote shutdown and restart.
 
-11. Access remote machine using alternative to PSEXEC, PAEXEC: [https://github.com/poweradminllc/PAExec](https://github.com/poweradminllc/PAExec)
+11. Manage remote machines using alternative to PSEXEC, PAEXEC: [https://github.com/poweradminllc/PAExec](https://github.com/poweradminllc/PAExec)
 
-12. Quickly access built-in tools such as Active Directory Users and Computers, Computer Management, Registry Editor, PAExec, and the Command Line all running as administrator.
+12. Quickly access built-in tools such as Active Directory Users and Computers, Computer Management, Registry Editor, PAExec, and the Command Line all running as administrator from the menu.
 
 Below is a screenshot of the app in demo mode:
 
