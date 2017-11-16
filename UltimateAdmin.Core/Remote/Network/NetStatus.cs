@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Net.NetworkInformation;
 using System.Net.Sockets;
 using System.Reflection;
 using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 using UltimateAdmin.Core.Logging;
 
 namespace UltimateAdmin.Core.Network
@@ -117,7 +113,7 @@ namespace UltimateAdmin.Core.Network
             try
             {
                 IPAddress address = Dns.GetHostEntry(computerName).AddressList[0];
-                if (computerName.Equals(GetMachineNameFromIPAddress(address.ToString())))
+                if(address.AddressFamily == AddressFamily.InterNetworkV6 || computerName.Equals(GetMachineNameFromIPAddress(address.ToString())))
                 {
                     return new PingResult(address);
                 }
